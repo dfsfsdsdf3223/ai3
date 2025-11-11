@@ -74,6 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://barunchicken.com/storage/product/c7878d3fb8f924604a787f5ffeaaf966_85pXM9YR_68469952030d053e6a29a61a5d8e64f29530a86c.png"],
        "videos": ["https://www.youtube.com/watch?v=2HZO-YNHFPk"]
      },
+
+   labels[1]: {
+       "texts": ["파스타는 까르보나라."],
+       "images": ["https://semie.cooking/image/contents/recipe/px/rh/jaowrvzg/IRD/143210130axpn.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=bhbf8-kFEQU"]
+     },
 }
 
 # ======================
