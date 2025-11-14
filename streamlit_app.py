@@ -72,19 +72,19 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["치킨은 살 안 쪄요 살은 내가 쪄요."],
        "images": ["https://barunchicken.com/storage/product/c7878d3fb8f924604a787f5ffeaaf966_85pXM9YR_68469952030d053e6a29a61a5d8e64f29530a86c.png"],
-       "videos": ["https://www.youtube.com/watch?v=2HZO-YNHFPk"]
+       "videos": ["https://www.youtube.com/watch?v=qYymd9ikifk"]
      },
 
    labels[1]: {
        "texts": ["파스타는 까르보나라."],
        "images": ["https://semie.cooking/image/contents/recipe/px/rh/jaowrvzg/IRD/143210130axpn.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=bhbf8-kFEQU"]
+       "videos": ["https://www.youtube.com/watch?v=UUOpe_sTKzA"]
      },
 
   labels[2]: {
        "texts": ["피자 먹고 얼굴 피자."],
        "images": ["https://i.namu.wiki/i/umI-heVYVS9miQNqXM13FRUOHHL4l1nzsZgN9XRLFG7nI_7Dyf-Myr6HmiWf9Qd7SAZQz3WYSQHPXXtGAwLTag.webp"],
-       "videos": ["https://www.youtube.com/watch?v=InTPhrn_pmA"]
+       "videos": ["https://www.youtube.com/watch?v=jxVOPjOTKoo"]
      },
 }
 # ======================
