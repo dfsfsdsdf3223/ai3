@@ -80,7 +80,6 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://semie.cooking/image/contents/recipe/px/rh/jaowrvzg/IRD/143210130axpn.jpg"],
        "videos": ["https://www.youtube.com/watch?v=bhbf8-kFEQU"]
      },
-}
 
   labels[2]: {
        "texts": ["피자 먹고 얼굴 피자."],
