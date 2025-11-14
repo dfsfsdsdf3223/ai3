@@ -82,6 +82,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 }
 
+  labels[2]: {
+       "texts": ["피자 먹고 얼굴 피자."],
+       "images": ["https://i.namu.wiki/i/umI-heVYVS9miQNqXM13FRUOHHL4l1nzsZgN9XRLFG7nI_7Dyf-Myr6HmiWf9Qd7SAZQz3WYSQHPXXtGAwLTag.webp"],
+       "videos": ["https://www.youtube.com/watch?v=InTPhrn_pmA"]
+     },
+
 # ======================
 # 유틸
 # ======================
